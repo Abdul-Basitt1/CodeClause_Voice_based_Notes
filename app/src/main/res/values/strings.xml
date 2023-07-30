@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Voice Notes</string>
+    <string name="all_notes">All Notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_subtitle">Note Subtitle</string>
+    <string name="type_here">Type Here..</string>
+    <string name="colors">COLORS</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="delete_note_white">Delete Note</string>
+    <string name="are_ypu_sure_you_want_to_delete_this_note">Are ypu sure you want to delete this note?</string>
+    <string name="cancel">Cancel</string>
+</resources>
